@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="rage-engine">
+      <UniqueIdentifier>{122990ae-31db-4ec0-af32-6e9520090768}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="rage-engine\game">
+      <UniqueIdentifier>{fb4e1079-8df0-452b-8a72-7eb5c4840bff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="rage-engine\game\headers">
+      <UniqueIdentifier>{8ca4869c-6d74-4e35-b4d0-cc23d97b85de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="rage-engine\game\sources">
+      <UniqueIdentifier>{56805ca4-0c09-4fd5-8007-7bea8227dec2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="rage-engine\game\headers\enums">
+      <UniqueIdentifier>{b8fbe682-f791-4050-b53d-98cda471b79c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sdk">
+      <UniqueIdentifier>{be1b8359-0665-40d6-bec9-8987832b815e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sdk\inc">
+      <UniqueIdentifier>{f4456ff8-974d-42ca-b8b9-3d7cec70e953}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="rage-engine\game\game.h">
+      <Filter>rage-engine\game\headers</Filter>
+    </ClInclude>
+    <ClInclude Include="rage-engine\game\enums\control_type.h">
+      <Filter>rage-engine\game\headers\enums</Filter>
+    </ClInclude>
+    <ClInclude Include="rage-engine\game\enums\input_type.h">
+      <Filter>rage-engine\game\headers\enums</Filter>
+    </ClInclude>
+    <ClInclude Include="dllscript.h" />
+    <ClInclude Include="sdk\inc\main.h">
+      <Filter>sdk\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="sdk\inc\nativeCaller.h">
+      <Filter>sdk\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="sdk\inc\natives.h">
+      <Filter>sdk\inc</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="rage-engine\game\game.cpp">
+      <Filter>rage-engine\game\sources</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="dllscript.cpp" />
+  </ItemGroup>
+</Project>
