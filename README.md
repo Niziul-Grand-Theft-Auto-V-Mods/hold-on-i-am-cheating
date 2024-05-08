@@ -7,7 +7,7 @@
 <p><strong>Installation</strong></p>
 
 <ol>
-	<li>Access the mod page to download the necessary files by clicking on the image that is at the top of the file.;</li>
+	<li>Access the mod page to download the necessary files by clicking on the image at the top of the file.;</li>
 	<li>Extract from the &quot;.rar&quot; the &quot;.asi&quot;<em>&nbsp;</em>file;</li>
 	<li>Place the extracted file in your game&#39;s root directory (where you have installed GTAV);</li>
 </ol>
