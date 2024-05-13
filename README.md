@@ -1,4 +1,14 @@
-<p><a href="https://www.gta5-mods.com/scripts/hold-on-i-am-cheating#description_tab" target="_blank"><img alt="Alternative Yaw Control - Keyboards" src="https://img.gta5-mods.com/q95/images/hold-on-i-am-cheating/715a0a-hold-on-i-am-cheating.png" /></a></p>
+<p align="right">
+    <a href="https://wakatime.com/badge/user/62df9c07-c6d2-43a7-b767-6b968431c589/project/018d990e-be35-4974-9ce1-3e0c52c8afa8.svg" target="_blank">
+        <img alt="Wakatime: Rain Wash V" src="https://wakatime.com/badge/user/62df9c07-c6d2-43a7-b767-6b968431c589/project/018d990e-be35-4974-9ce1-3e0c52c8afa8.svg" />
+    </a>
+</p>
+
+<p>
+    <a href="https://www.gta5-mods.com/scripts/hold-on-i-am-cheating#description_tab" target="_blank">
+        <img alt="Rain Wash V" src="https://img.gta5-mods.com/q95/images/hold-on-i-am-cheating/715a0a-hold-on-i-am-cheating.png" />
+    </a>
+</p>
 
 <p><strong>About the mod</strong></p>
 
