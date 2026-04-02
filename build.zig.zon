@@ -1,0 +1,13 @@
+.{
+    .name = .hold_on_i_am_cheating_v,
+    .version = "0.2.0",
+    .dependencies = .{
+        .ScriptHookZig = .{
+            .url = "git+https://github.com/playday3008/ScriptHookZig.git#66e729279904a4952ad03c06811f1f5bfbbda6ab",
+            .hash = "ScriptHookZig-0.0.0-3e3FLswJAQDXnDYHu6YUK-nadaUMQoyQYeXanoT-Wn4j",
+        },
+    },
+    .minimum_zig_version = "0.15.2",
+    .paths = .{""},
+    .fingerprint = 0x13bc05a9b771882b,
+}
